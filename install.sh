@@ -1,7 +1,7 @@
 #!/bin/bash
 
-author=233boy
-# github=https://github.com/233boy/sing-box
+author=assast
+# github=https://github.com/assast/sing-box
 
 # bash fonts colors
 red='\e[31m'
@@ -309,7 +309,7 @@ main() {
     # show welcome msg
     clear
     echo
-    echo "........... $is_core_name script by $author .........."
+    echo "........... $is_core_name script by $author modify from 233boy.........."
     echo
 
     # start installing...
